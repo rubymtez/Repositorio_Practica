@@ -5,19 +5,17 @@ public class Hola_Mundo {
 		// TODO Auto-generated method stub
 		System.out.println("Hola Mundo");
 	}
-<<<<<<< HEAD
 	public void prueba2()
 	{
 		int variable2= 2;
 		variable2 += 2;
-=======
+	}
 		
 		public void prueba()
 		{
 			int variable1 = 1;
 			variable1 += 1;
 		}
->>>>>>> branch 'master' of https://github.com/rubymtez/Repositorio_Practica.git
 	}
 
 
