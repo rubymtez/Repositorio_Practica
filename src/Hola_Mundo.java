@@ -5,5 +5,10 @@ public class Hola_Mundo {
 		// TODO Auto-generated method stub
 		System.out.println("Hola Mundo");
 	}
+	public void prueba2()
+	{
+		int variable2= 2;
+		variable2 += 2;
+	}
 
 }
